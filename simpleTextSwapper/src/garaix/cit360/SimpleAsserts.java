@@ -11,6 +11,7 @@ public class SimpleAsserts {
 		}
 	}
 	
+	
 	// increments all elements in an array
 	public static void arrayBoost(int array[], int increment) {
 		for (int i=0; i<array.length; i++) {

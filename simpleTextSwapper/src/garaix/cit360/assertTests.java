@@ -23,6 +23,7 @@ class assertTests {
 		num.arrayBoost(initialArray,5);
 		int[] expectedArray = {6,7,8};
 		
+		
 		assertArrayEquals(initialArray,expectedArray);
 		
 	}
